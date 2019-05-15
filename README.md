@@ -1,2 +1,5 @@
 # hello-world
-my fist script
+Hi Human!
+
+9932941 Canada here, I like python here---
+
